@@ -1,3 +1,9 @@
+> [!important]
+>
+> 此项目的开发已迁移至 [SaltifyDev/saltify](https://github.com/SaltifyDev/saltify) 仓库下。
+
+---
+
 # Milky SDK for Kotlin
 
 [![Maven Central](https://img.shields.io/maven-central/v/org.ntqqrev/milky-kt-sdk?label=Maven%20Central&logo=maven)](https://central.sonatype.com/artifact/org.ntqqrev/milky-kt-sdk)
